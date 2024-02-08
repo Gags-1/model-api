@@ -1,0 +1,9 @@
+fastapi
+transformers
+RobertaTokenizer
+RobertaForSequenceClassification
+torch
+re
+softmax
+uvicorn
+gunicorn
