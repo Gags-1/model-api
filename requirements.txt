@@ -3,7 +3,7 @@ transformers
 # RobertaTokenizer
 # RobertaForSequenceClassification
 torch
-re
+#re
 softmax
 uvicorn
 gunicorn
